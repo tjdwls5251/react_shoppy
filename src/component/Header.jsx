@@ -1,5 +1,5 @@
 import React from 'react';
-import {BsShop,BsFillPencilFill,BsCartFill} from 'react-icons/bs';
+import {BsShop,BsFillPencilFill} from 'react-icons/bs';
 import { Link } from 'react-router-dom';
 import { useAuthContext } from '../context/AuthContext';
 import CartStatus from './CartStatus';
